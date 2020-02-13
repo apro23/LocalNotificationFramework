@@ -1,0 +1,6 @@
+framework module LocalNotificationFramework {
+  umbrella header "LocalNotificationFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
