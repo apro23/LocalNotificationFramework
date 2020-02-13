@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LocalNotificationFramework'
   s.version          = '0.1.0'
-  s.summary          = 'This LocalNotificationFramework is a leightweight local notificaion ui ready made with tons of options for iOS swift patform. This library makes it easy to setup a local native notification and also includes easy configuration.'
+  s.summary          = 'LocalNotificationFramework is a leightweight local notificaion ui ready made with tons of options and easy to setup for iOS swift platform.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
